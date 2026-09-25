@@ -1,6 +1,6 @@
 ### Hello there 👋🏼
 
-I'm **Caelan Miller**, a current **Computational & Systems Biology PhD Candidate** [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/) in the [Dantas Lab](https://dantaslab.wustl.edu/) 🦠💊
+I'm **Caelan Watson**, a current **Computational & Systems Biology PhD Candidate** [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/) in the [Dantas Lab](https://dantaslab.wustl.edu/) 🦠💊
 
 I develop reproducible computational pipelines, manage lab HPC infrastructure, and build Python tools for microbial genomic analyses. I'm also pursuing **AAS in Network Security Engineering & Cybersecurity** to complement my computational work.
 
