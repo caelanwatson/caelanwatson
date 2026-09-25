@@ -59,6 +59,6 @@ Key activities include:
 ## 🔗 Connect with Me
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--5944--2327-A6CE39?logo=orcid&logoColor=white&style=flat)](https://orcid.org/0009-0001-5944-2327)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-caelan--miller-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/caelan-miller)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caelan--watson-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/caelan-watson)
 [![Scholar](https://img.shields.io/badge/Google-Scholar-6A5ACD?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.com/citations?hl=en&user=WLLEG1sAAAAJ)
 [![Lab](https://img.shields.io/badge/Lab-Dantas%20Lab-6A5ACD?style=flat&logo=dna&logoColor=white)](https://dantaslab.wustl.edu/)
